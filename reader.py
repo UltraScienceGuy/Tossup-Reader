@@ -28,4 +28,4 @@ with file:
 print(tu_list)
 print(ans_list)
 
-#Data from QuizDB
+#Data from QuizDB, json file must be in same dir as reader.py
